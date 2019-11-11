@@ -1,0 +1,1 @@
+cookie랑 index db랑 localstorage에 저장한다.

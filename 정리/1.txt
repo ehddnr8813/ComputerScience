@@ -1,0 +1,5 @@
+저는 ssafy에서 4명과 협업 프로젝트를 했을 때, 백앤드와 프론트개발을 했는데,
+swagger를 이욯한 tool을 통해서 문서화해서 rest api를 맞추고 
+
+orm
+jpl

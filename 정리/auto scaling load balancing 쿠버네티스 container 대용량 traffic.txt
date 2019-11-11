@@ -1,0 +1,8 @@
+대용량 처리는 어떻게 할것인가?
+Auto Scaling, Load balance
+Docker,쿠베네틱스
+
+Docker와 쿠버네티스
+https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/
+
+https://zzsza.github.io/development/2018/04/17/docker-kubernetes/
